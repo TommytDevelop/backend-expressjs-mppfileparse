@@ -1,4 +1,4 @@
-# MppFileManager Backend ExpressJS
+# MppFileManager Backend ExpressJS Mongoose
 
 ## Environment Prepare
 
